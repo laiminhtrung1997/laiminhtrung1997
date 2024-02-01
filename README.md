@@ -19,12 +19,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">  
-<img src="https://img.shields.io/badge/-Linux-1e1f20?style=for-the-badge&logo=linux&logoColor=yellow">
-<img src="https://img.shields.io/badge/-GNU-2b1c0a?style=for-the-badge&logo=gnu&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-141b4a?style=for-the-badge&logo=python&logoColor=green">
-<img src="https://img.shields.io/badge/-Bash-082405?style=for-the-badge&logo=gnu bash&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-161618?style=for-the-badge&logo=git&logoColor=orange">
-<img src="https://img.shields.io/badge/-Html-542300?style=for-the-badge&logo=html5&logoColor=orange">
-<img src="https://img.shields.io/badge/-Css-024550?style=for-the-badge&logo=css3&logoColor=cyan">
-<img src="https://img.shields.io/badge/-Qt-052F15?style=for-the-badge&logo=qt&logoColor=green">
+<img src="https://img.shields.io/badge/-Bash-082405?style=for-the-badge&logo=gnu bash&logoColor=white">
+<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-141b4a?style=for-the-badge&logo=python&logoColor=green">
 </div>
