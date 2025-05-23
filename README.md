@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">  
 <img src="https://img.shields.io/badge/-Git-161618?style=for-the-badge&logo=git&logoColor=orange">
-<img src="https://img.shields.io/badge/-Bash-082405?style=for-the-badge&logo=gnu bash&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-141b4a?style=for-the-badge&logo=python&logoColor=green">
