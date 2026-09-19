@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/trung-lai-minh-198790205/)">
+  <a href="https://www.linkedin.com/in/trung-lai-minh-198790205/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:laiminhtrung1997@gmail.com">
