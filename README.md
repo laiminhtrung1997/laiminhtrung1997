@@ -50,25 +50,40 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
-## GitHub stats
+## DevOps capabilities
+
+| Area | Tools and technologies |
+| --- | --- |
+| Cloud | AWS, EC2, EKS, IAM, VPC, S3, Route 53, CloudWatch, ALB, Lambda |
+| Containers | Docker, Kubernetes, Helm |
+| CI/CD | Jenkins, GitHub Actions |
+| GitOps | ArgoCD, Kubernetes manifests |
+| Infrastructure as Code | Terraform, Ansible |
+| Scripting | Bash, Python, Go |
+| Operating systems | Linux |
+
+## Featured focus
+
+- Designing secure, scalable AWS infrastructure
+- Operating production Kubernetes environments
+- Building reliable Jenkins CI/CD pipelines
+- Implementing GitOps workflows with ArgoCD
+- Automating infrastructure with Terraform and Ansible
+- Improving observability, deployment safety, and platform reliability
+
+## GitHub profile
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laiminhtrung1997&theme=gruvbox&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/laiminhtrung1997?tab=repositories">
+    <img src="https://img.shields.io/badge/View_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories" />
+  </a>
+  <a href="https://github.com/laiminhtrung1997?tab=followers">
+    <img src="https://img.shields.io/github/followers/laiminhtrung1997?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/laiminhtrung1997">
+    <img src="https://img.shields.io/github/stars/laiminhtrung1997?style=for-the-badge&logo=github&label=Profile%20stars" alt="Profile stars" />
+  </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laiminhtrung1997&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiminhtrung1997&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
-
-## Currently working with
-
-- AWS services: EC2, EKS, IAM, VPC, S3, Route53, CloudWatch, ALB, Lambda
-- Kubernetes orchestration and cluster operations
-- ArgoCD for GitOps delivery and environment promotion
-- Jenkins pipelines for CI/CD automation
-- Dockerized application deployment workflows
-- Infrastructure as Code and automation scripting
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laiminhtrung1997&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile views" />
