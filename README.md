@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p align="center">
-  <strong>DevOps Engineer</strong> • AWS • Kubernetes • ArgoCD • Jenkins
+  <strong>DevOps Engineer</strong> • AWS • Kubernetes • Jenkins • ArgoCD
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/trung-lai-minh-198790205/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:laiminhtrung1997@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/laiminhtrung1997">
