@@ -4,16 +4,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand" />
   <h1>Hi, I'm Trung</h1>
 </div>
 
 <p align="center">
-  <strong>DevOps Engineer</strong> focused on <strong>AWS</strong>, <strong>Kubernetes</strong>, <strong>ArgoCD</strong>, and <strong>Jenkins</strong>.
+  <strong>DevOps Engineer</strong> | <strong>AWS</strong> | <strong>Kubernetes</strong> | <strong>ArgoCD</strong> | <strong>Jenkins</strong>
 </p>
 
 <p align="center">
-  I build and automate cloud infrastructure, CI/CD pipelines, and GitOps workflows to help teams deliver software faster and more reliably.
+  I design and operate scalable cloud infrastructure, automate delivery pipelines, and implement GitOps-driven deployments for reliable software delivery.
 </p>
 
 <div align="center">
@@ -27,61 +27,62 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
 </div>
 
-## About me
+## About Me
 
-- Cloud infrastructure and automation with AWS
-- Kubernetes cluster management and troubleshooting
-- GitOps delivery with ArgoCD
-- CI/CD pipeline design and optimization with Jenkins
-- Containerization and deployment automation
-- Infrastructure as Code and platform reliability
+- DevOps Engineer with strong experience in AWS cloud environments
+- Focused on Kubernetes operations, CI/CD automation, and platform reliability
+- Passionate about Infrastructure as Code, automation, and GitOps practices
+- Building secure, scalable, and high-availability infrastructure for modern applications
 
-## Tech stack
+## Core Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B2D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EC2" />
+  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EKS" />
+  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="IAM" />
+  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="VPC" />
+  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch" />
+</div>
 
-## DevOps capabilities
+## What I Do
 
-| Area | Tools and technologies |
+- Provision and manage AWS infrastructure
+- Deploy and maintain Kubernetes clusters
+- Implement GitOps workflows with ArgoCD
+- Build and optimize Jenkins CI/CD pipelines
+- Automate infrastructure using Terraform and Ansible
+- Improve deployment reliability, observability, and performance
+- Support DevSecOps and environment standardization
+
+## DevOps Stack
+
+| Area | Tools |
 | --- | --- |
-| Cloud | AWS, EC2, EKS, IAM, VPC, S3, Route 53, CloudWatch, ALB, Lambda |
+| Cloud | AWS, EC2, EKS, IAM, VPC, S3, Route53, ALB, CloudWatch |
 | Containers | Docker, Kubernetes, Helm |
 | CI/CD | Jenkins, GitHub Actions |
-| GitOps | ArgoCD, Kubernetes manifests |
-| Infrastructure as Code | Terraform, Ansible |
+| GitOps | ArgoCD |
+| IaC | Terraform, Ansible |
 | Scripting | Bash, Python, Go |
-| Operating systems | Linux |
+| OS | Linux |
 
-## Featured focus
+## Current Focus
 
-- Designing secure, scalable AWS infrastructure
-- Operating production Kubernetes environments
-- Building reliable Jenkins CI/CD pipelines
-- Implementing GitOps workflows with ArgoCD
-- Automating infrastructure with Terraform and Ansible
-- Improving observability, deployment safety, and platform reliability
+- Scalable AWS architecture and platform engineering
+- Kubernetes cluster management and troubleshooting
+- GitOps-based deployment automation with ArgoCD
+- CI/CD pipeline optimization and delivery speed
+- Infrastructure reliability and cost-efficient cloud operations
 
-## GitHub profile
+## GitHub
 
 <p align="center">
-  <a href="https://github.com/laiminhtrung1997?tab=repositories">
-    <img src="https://img.shields.io/badge/View_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories" />
-  </a>
-  <a href="https://github.com/laiminhtrung1997?tab=followers">
-    <img src="https://img.shields.io/github/followers/laiminhtrung1997?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
   <a href="https://github.com/laiminhtrung1997">
-    <img src="https://img.shields.io/github/stars/laiminhtrung1997?style=for-the-badge&logo=github&label=Profile%20stars" alt="Profile stars" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/laiminhtrung1997?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
 
